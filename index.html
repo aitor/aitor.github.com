@@ -15,7 +15,7 @@
 
       ul {
         position: absolute;
-        left: 910px;
+        left: 810px;
         top: 30px;
         list-style-type: none;
       }
@@ -36,9 +36,9 @@
     </style>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
     <script type="text/javascript">
-      $(function repo_for(ul, user) {
+      $(function {//repo_for(ul, user) {
         var limit = 10        // how many repos to list
-        var login = user // your username
+        var login = 'aitor'//user // your username
 
         $.getJSON('http://github.com/api/v1/json/' + login + '?callback=?', function(data) {
           var repos = $.grep(data.user.repositories, function() {
@@ -50,12 +50,13 @@
           })
 
           $.each(repos.slice(0, limit), function() {
-            $(ul).append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
+            //$(ul).append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
+            $('repos').append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
           })
         })        
       }
-      repo_for('#my_repos', 'aitor')
-      repo_for('#tog_repos', 'tog')
+      //repo_for('#my_repos', 'aitor')
+      //repo_for('#tog_repos', 'tog')
       )
     </script>
   </head>
@@ -65,7 +66,7 @@
       <li><a href="http://github.com/aitor">My GitHub projects</a></li>
       <li><a href="mailto:aitor.garcia@gmail.com">aitor.garcia@gmail.com</a></li>
     </ul>
-    <ul id="my_repos">
+    <ul id="repos">
       <li><h3>Personal projecs</h3></li>
     </ul>
     <ul id="linkingpaths_repos">
