@@ -1,1 +1,78 @@
-My GitHub Page
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <title>Aitor García</title>
+    <style type="text/css">
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        background: url(/images/7.png) no-repeat;
+      }
+
+      ul {
+        position: absolute;
+        left: 910px;
+        top: 30px;
+        list-style-type: none;
+      }
+
+      #repos {
+        top: 130px;
+      }
+
+      a {
+        color: #bbb;
+        font-family: "Lucida Grande", sans-serif;
+        line-height: 18px;
+      }
+
+      h3 {
+        font-family: "Lucida Grande", sans-serif;      
+      }
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(function repo_for(ul, user) {
+        var limit = 10        // how many repos to list
+        var login = user // your username
+
+        $.getJSON('http://github.com/api/v1/json/' + login + '?callback=?', function(data) {
+          var repos = $.grep(data.user.repositories, function() {
+            return !this.fork
+          })
+
+          repos.sort(function(a, b) {
+            return b.watchers - a.watchers
+          })
+
+          $.each(repos.slice(0, limit), function() {
+            $(ul).append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
+          })
+        })        
+      }
+      repo_for('#my_repos', 'aitor')
+      repo_for('#tog_repos', 'tog')
+      )
+    </script>
+  </head>
+  <body>
+    <ul>
+      <li><a href="http://twitter.com/aitorgarciarey">My Twitter profile</a></li>
+      <li><a href="http://github.com/aitor">My GitHub projects</a></li>
+      <li><a href="mailto:aitor.garcia@gmail.com">aitor.garcia@gmail.com</a></li>
+    </ul>
+    <ul id="my_repos">
+      <li><h3>Personal projecs</h3></li>
+    </ul>
+    <ul id="linkingpaths_repos">
+      <li><h3>Linking Paths</h3></li>
+    </ul>
+    <ul id="tog_repos">
+      <li><h3>Tog</h3></li>
+    </ul>
+  </body>
+</html>
