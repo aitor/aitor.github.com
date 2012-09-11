@@ -1,6 +1,7 @@
 ---
 layout: layout
 title: "About Aitor García"
+permalink: /a-ciid-alumni/
 ---
 
 <link rel="stylesheet" href="/css/ciid.css" type="text/css" media="screen"/>
@@ -20,8 +21,20 @@ title: "About Aitor García"
     </div>
   </div>
 
-  <div class="why section" id="ciid"><%= markdown(:'ciid/why-ciid') %></div>
-  <div class="why section" id="me"><%= markdown(:'ciid/why-me') %></div>
+  <div class="why section" id="ciid">
+    {% capture whyciid %}
+      {% include ciid/why-ciid.md %}
+    {% endcapture %}
+    {{ whyciid | markdownify }}
+  </div>
+
+  <div class="why section" id="me">
+    {% capture whyme %}
+      {% include ciid/why-me.md %}
+    {% endcapture %}
+    {{ whyme | markdownify }}
+  </div>
+
   <div class="clear"></div>
   <div class="portfolio section">
     <h2>Portfolio</h2>
@@ -35,7 +48,12 @@ title: "About Aitor García"
 <iframe src="http://player.vimeo.com/video/31725327?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933" width="675" height="380" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
         </div>
       </div>
-      <div class="about"><%= markdown(:'ciid/about-abckit') %></div>
+      <div class="about">
+        {% capture abckit %}
+          {% include ciid/about-abckit.md %}
+        {% endcapture %}
+        {{ abckit | markdownify }}
+      </div>
     </div>
 
     <div class="project" id="verkami">
@@ -48,7 +66,12 @@ title: "About Aitor García"
           <a href="javascript:$('#verkami .screenshots .image').anystretch('/images/ciid/verkami-1.png', {speed: 150});return false;"></a>
         </div>
       </div>
-      <div class="about"><%= markdown(:'ciid/about-verkami') %></div>
+      <div class="about">
+        {% capture verkami %}
+          {% include ciid/about-verkami.md %}
+        {% endcapture %}
+        {{ verkami | markdownify }}
+      </div>
     </div>
 
     <div class="project" id="probono">
@@ -61,7 +84,12 @@ title: "About Aitor García"
           <a href="javascript:$('#probono .screenshots .image').anystretch('/images/ciid/probono-1.jpg', {speed: 150});return false;"></a>
         </div>
       </div>
-      <div class="about"><%= markdown(:'ciid/about-probono') %></div>
+      <div class="about">
+        {% capture probono %}
+          {% include ciid/about-probono.md %}
+        {% endcapture %}
+        {{ probono | markdownify }}
+      </div>
     </div>
 
     <div class="project" id="age">
@@ -74,12 +102,17 @@ title: "About Aitor García"
           <a href="javascript:$('#age .screenshots .image').anystretch('/images/ciid/age-1.jpg', {speed: 150});return false;"></a>
         </div>
       </div>
-      <div class="about"><%= markdown(:'ciid/about-age') %></div>
+      <div class="about">
+        {% capture age %}
+          {% include ciid/about-age.md %}
+        {% endcapture %}
+        {{ age | markdownify }}
+      </div>
     </div>
+
     <div class="project" id="jositajosi">
       <div class="screenshots">
-        <div class="image">
-        </div>
+        <div class="image"> </div>
         <div class="nav">
           <a href="javascript:$('#jositajosi .screenshots .image').anystretch('/images/ciid/jositajosi-4.jpg', {speed: 150});return false;"></a>
           <a href="javascript:$('#jositajosi .screenshots .image').anystretch('/images/ciid/jositajosi-3.jpg', {speed: 150});return false;"></a>
@@ -87,26 +120,39 @@ title: "About Aitor García"
           <a href="javascript:$('#jositajosi .screenshots .image').anystretch('/images/ciid/jositajosi-1.jpg', {speed: 150});return false;"></a>
         </div>
       </div>
-      <div class="about"><%= markdown(:'ciid/about-jositajosi') %></div>
+      <div class="about">
+        {% capture jositajosi %}
+          {% include ciid/about-jositajosi.md %}
+        {% endcapture %}
+        {{ jositajosi | markdownify }}
+      </div>
     </div>
 
     <div class="project" id="opensource">
       <div class="screenshots">
-        <div class="image">
-        </div>
+        <div class="image"></div>
       </div>
-      <div class="about"><%= markdown(:'ciid/about-opensource') %></div>
+      <div class="about">
+        {% capture opensource %}
+          {% include ciid/about-opensource.md %}
+        {% endcapture %}
+        {{ opensource | markdownify }}
+      </div>
     </div>
-
-    <script type="text/javascript">
-      $(".video").fitVids();
-      $('#age .screenshots .image').anystretch("/images/ciid/age-1.jpg", {speed: 50});
-      $('#verkami .screenshots .image').anystretch("/images/ciid/verkami-1.png", {speed: 50});
-      $('#probono .screenshots .image').anystretch("/images/ciid/probono-1.jpg", {speed: 50});
-      $('#jositajosi .screenshots .image').anystretch("/images/ciid/jositajosi-1.jpg", {speed: 50});
-      $('#opensource .screenshots .image').anystretch("/images/ciid/opensource.png", {speed: 50});
-    </script>
   </div>
   <div class="clear"></div>
-  <div class="final section"><%= markdown(:'ciid/final') %></div>
+  <div class="final section">
+    {% capture final %}
+      {% include ciid/final.md %}
+    {% endcapture %}
+    {{ final | markdownify }}
+  </div>
 </div>
+<script type="text/javascript">
+  $(".video").fitVids();
+  $('#age .screenshots .image').anystretch("/images/ciid/age-1.jpg", {speed: 50});
+  $('#verkami .screenshots .image').anystretch("/images/ciid/verkami-1.png", {speed: 50});
+  $('#probono .screenshots .image').anystretch("/images/ciid/probono-1.jpg", {speed: 50});
+  $('#jositajosi .screenshots .image').anystretch("/images/ciid/jositajosi-1.jpg", {speed: 50});
+  $('#opensource .screenshots .image').anystretch("/images/ciid/opensource.png", {speed: 50});
+</script>

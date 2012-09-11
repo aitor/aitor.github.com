@@ -1,0 +1,100 @@
+#ciid{
+  width:80%;
+  margin:4em auto;
+  max-width:960px;
+}
+#ciid a{
+  color:red;
+}
+#ciid li{
+  margin: 0.5em 0;
+}
+#ciid .presentation{
+  margin-bottom:1em;
+  border-top:10px solid;
+  font-size:1.8em;
+  line-height:1.2em;
+}
+
+#ciid a {
+  color:red;
+  text-decoration: none;
+  -webkit-transition:color 0.2s ease-out;
+  -moz-transition:color 0.2s ease-out;
+  -o-transition:color 0.2s ease-out;
+  -ms-transition:color 0.2s ease-out;
+  transition:color 0.2s ease-out
+}
+#ciid a:hover{
+  color:#D9786E;
+}
+
+.presentation img{
+  float:right;
+  border:18px solid rgba(0,0,0,0.8);
+  margin:1em 2em;
+}
+#ciid .section{
+  margin-top: 3em;
+  border-top:10px solid;
+}
+#ciid .why{
+  float:left;
+  width:45%;
+  min-width:300px;
+}
+
+.why#ciid{
+  margin-right:10%;
+}
+
+#ciid .project{
+  margin-top: 4em;
+}
+#ciid .project .about{
+  border-top: 1px solid #D2D2D2;
+  width:25%;
+  min-width:300px;
+}
+
+#ciid .project .screenshots{
+  width:60%;
+  float:right;
+  min-width:300px;
+
+}
+#ciid .project .screenshots .image{
+  border: 1px solid #999;
+  height:400px;
+}
+#ciid .project .nav{
+  margin:1em auto;
+  text-align:center;
+}
+
+#ciid .project .screenshots .nav a{
+  float:right;
+  display:block;
+  width: 10px;
+  height: 10px;
+  margin-left: 10px;
+  background: url(/images/ciid/nav.png) no-repeat 0 0;
+}
+#ciid .project .screenshots .nav a:hover{
+  background-position: 0 -10px;
+}
+
+
+
+#ciid .project a.launch{
+  color: #fff;
+  background-color: red;
+  display: block;
+  margin-top: 10px;
+  padding: 8px 18px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+}

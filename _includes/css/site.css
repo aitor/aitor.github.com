@@ -1,0 +1,25 @@
+body{
+  font-family:"adelle-1","adelle-2",serif;
+  line-height:1.3em;
+}
+a{
+  font-weight:bold;
+  color: black;
+}
+a:hover{
+  color:#A1A2A1;
+}
+#about{
+  width: 45%;
+  min-width:270px;
+  max-width:600px;
+  margin:14% 6%;
+}
+h2 {
+  line-height:1.2em;
+  margin: 1.4em 0;
+}
+
+.clear {
+  clear: both;
+}

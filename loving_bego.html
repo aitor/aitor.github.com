@@ -1,0 +1,29 @@
+---
+title: The rare gift Bego has
+permalink: /loving-bego/
+layout: layout
+---
+
+<style type="text/css" media="screen">
+  #maintext{
+    color:#fff;
+    width:50%;
+    min-width:300px;
+    max-width:400px;
+    margin:8% 5%;
+  }
+  .date{
+    color:#686868;
+  }
+</style>
+
+<div id="maintext">
+  {% capture bego %}
+    {% include loving-bego/love.md %}
+  {% endcapture %}
+  {{ bego | markdownify }}
+  <p class="date">July 2012</p>
+</div>
+<script type="text/javascript">
+  $.anystretch("http://f.cl.ly/items/14403a3E0J361C3E2106/bego_short.jpg");
+</script>
