@@ -45,6 +45,10 @@
   body {
     font-size: 24px;
   }
+  .wrap img.extra{
+    max-width: 50em;
+    margin-left: -10em;
+  }
 }
 @media screen and (min-width:1800px) {
   body {
