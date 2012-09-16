@@ -1,0 +1,18 @@
+---
+layout: site
+---
+<article>
+  {% if page.header_image %}
+    <img src="{{page.header_image}}" class="header_image"/>
+  {% endif %}
+  <div class="wrap">
+    <header>
+      <h1>{{page.title}}</h1>
+      <aside>
+        {% if page.place %}{{page.place}} on {% endif %}
+        {{ page.date | date: "%B %e, %Y" }}
+      </aside>
+    </header>
+    {{content}}
+  </div>
+</article>

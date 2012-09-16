@@ -1,0 +1,38 @@
+body {
+  /*margin: 0;*/
+  margin:-1em 0;
+  padding: 0;
+  background-color: #FCFCFE;
+  border-left: 0.714285714em solid #F16262;
+  border-right: 0.714285714em solid #F16262;
+}
+
+article {
+  max-width: 30em;
+  margin: 0 auto;
+  padding: 0 1em;
+}
+
+img.header_image {
+  width: 100%;
+}
+body > footer{
+  margin-bottom: -10px;
+}
+
+body > footer {
+  border-top: 1px dotted rgba(0,0,0,0.1);
+  padding: 2em 0;
+  text-align: center;
+  margin-top: 4.5em;
+  line-height: 1.4em;
+  color: #999;
+  font-family: "proxima-nova-1","proxima-nova-2", Helvetica, Arial, sans-serif;
+  font-size: 0.571428571em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.wrap img{
+  max-width: 100%;
+}

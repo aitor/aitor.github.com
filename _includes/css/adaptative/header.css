@@ -1,0 +1,65 @@
+header#menu{
+  max-width: 30em;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 0.2em;
+  border-bottom:1px dotted rgba(0, 0, 0, 0.2);
+  height: 2.5em;
+}
+header#menu ul li{
+  list-style-type:none;
+  float:left
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 0.5em;
+  padding: 0.4em 0.8em;
+}
+
+nav a#logo i{
+  color:#F16262;
+  padding: 0.9em 0.6em 0.4em 0.6em;
+  height:1.875em;
+}
+nav a#logo i:hover {
+  background-color: #F16262;
+  color: white;
+  -webkit-transition:background-color 1.6s ease-out!important;
+  -moz-transition:background-color 1.6s ease-out!important;
+  -ms-transition:background-color 1.6s ease-out!important;
+  -o-transition:background-color 1.6s ease-out!important;
+  transition:background-color 1.6s ease-out!important
+}
+
+nav a {
+  font-size: 0.771428571em;
+  padding-bottom: 0.095238095em;
+  color: rgba(0,0,0,0.3);
+  font-family: "proxima-nova-1","proxima-nova-2", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  border: none;
+}
+
+nav a.active {
+  color: #000;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: #F16262;
+}
+
+nav h1{
+  margin: 0;
+}

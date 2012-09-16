@@ -1,0 +1,21 @@
+footer a {
+  text-decoration: none;
+  color: rgba(0,0,0,0.3);
+  font-family: "proxima-nova-1","proxima-nova-2", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  border: none;
+}
+
+footer a.twitter{
+  font-size: 2em;
+}
+
+footer a.active {
+  color: #000;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #F16262;
+}

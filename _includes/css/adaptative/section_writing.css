@@ -1,0 +1,33 @@
+body#writing {
+  border-color: rgba(0, 0, 0, 0.1);
+  }
+
+article footer:before {
+  content: ' ';
+  display: block;
+  max-width: 10em;
+  border-top: 1px solid rgba(0,0,0,0.15);
+  padding-bottom: 1em;
+  }
+
+article footer {
+  padding-top: 2em;
+  }
+
+
+body#writing article h1:after {
+  margin-bottom: 0;
+  }
+
+body#writing article header{
+  font-family: "proxima-nova-1","proxima-nova-2", Arial, Helvetica, sans-serif;
+  }
+body#writing article h1{
+  text-transform: uppercase;
+  font-weight:bold;
+  text-align: left;
+  font-size: 3em;
+  }
+body#writing article header aside{
+  text-transform: uppercase;
+  }

@@ -1,6 +1,3 @@
-
-## Create.<br/>Learn.<br/>Repeat.
-
 Aitor García Rey writes code, designs and helps managing [Linking Paths](http://www.linkingpaths.com), a web company obsessed with creating [simple and useful](http://www.stagehq.com) web applications. But he refuses to be only one thing. He is not happy being "a developer" anymore; the tag has become constraining, dehumanizing. He refuses to accept a monochrome version of himself that spans his interests or capabilities only in a few areas.
 
 [Specialization is for insects](http://en.wikiquote.org/wiki/Robert_A._Heinlein), and he wants to be a human.

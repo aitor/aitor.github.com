@@ -1,0 +1,40 @@
+{% comment %}
+This is the default site-wide html markup template.
+{% endcomment%}
+
+
+<!DOCTYPE html>
+{% assign base = site.baseurl %}
+<html>
+
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{page.title}} | {{site.title}}</title>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://use.typekit.com/usl8few.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script src="{{base}}/all.js"></script>
+
+    <link href='http://fonts.googleapis.com/css?family=Vollkorn:400italic,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{base}}/site.css" type="text/css" />
+    <link rel="shortcut icon" href="{{base}}/img/favicon.ico" type="image/x-icon" />
+  </head>
+
+  <body {% if page.css_id %}id="{{page.css_id}}"{% endif %}>
+
+    <header id="menu">
+      {% include header.html %}
+    </header>
+
+    <section id="content">
+      {{content}}
+    </section>
+
+    <footer>
+      {% include footer.html %}
+    </footer>
+
+  </body>
+
+</html>

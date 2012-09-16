@@ -1,0 +1,51 @@
+body#info {
+  border-color: #babcd0;
+}
+
+body#info article a {
+  color: #8287b7;
+}
+
+div.pic {
+  max-width: 35%;
+  margin: -1em auto 0 auto;
+}
+
+div.pic img {
+  width: 100%;
+}
+
+p.illocredit:before {
+  content: ' ';
+  display: block;
+  max-width: 10em;
+  border-top: 1px solid rgba(0,0,0,0.15);
+  padding-bottom: 1em;
+  margin-top: 2em;
+}
+
+h1.infotitle {
+  margin-top: 0.25em;
+  line-height: 1.1em;
+}
+
+body#info h1:after {
+  margin-bottom: 0;
+}
+
+p.contact {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+#portrait {
+  margin-bottom: 1em;
+}
+
+p.big {
+  font-size: 1.3em;
+  line-height: 1.25em;
+  font-family: "proxima nova";
+  color: #8287b7;
+  font-weight: 300;
+}

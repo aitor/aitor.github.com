@@ -1,0 +1,55 @@
+@media screen and (max-width:500px) {
+  body {
+    margin:0;
+    border-width: 0;
+    font-size: 18px;
+  }
+
+  header#menu{
+    padding-bottom: 0em;
+  }
+
+  nav ul {
+    margin: 0;
+    width: auto;
+  }
+
+  nav ul li a {
+    font-size: 0.7em;
+    font-weight: bold;
+    position: inherit;
+  }
+
+  div.pic {
+    max-width: 70%;
+    padding: 0;
+  }
+  body#writing article h1{
+    font-size: 2.6em;
+  }
+
+}
+
+@media screen and (max-width:320px) {
+  div#logo {
+    margin-bottom: 0.5em;
+  }
+  nav ul {
+    width: 10em;
+    margin: 0 auto;
+  }
+}
+
+
+@media screen and (min-width:1300px) {
+  body {
+    font-size: 24px;
+  }
+}
+@media screen and (min-width:1800px) {
+  body {
+    font-size: 30px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+}
