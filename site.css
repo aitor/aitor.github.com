@@ -1,0 +1,12 @@
+---
+---
+{% include css/pygments.css %}
+{% include css/font-awesome.css %}
+{% include css/adaptative/layout.css %}
+{% include css/adaptative/header.css %}
+{% include css/adaptative/footer.css %}
+{% include css/adaptative/typography.css %}
+{% include css/adaptative/section_about.css %}
+{% include css/adaptative/section_writing.css %}
+{% include css/adaptative/section_archives.css %}
+{% include css/adaptative/queries.css %}

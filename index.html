@@ -1,15 +1,21 @@
 ---
-layout: layout
-title: Hi!
+layout: site
+css_id: writing
 ---
-
-
-<div id="about">
-  {% capture intro %}
-    {% include intro.md %}
-  {% endcapture %}
-  {{ intro | markdownify }}
-</div>
-<script type="text/javascript">
-  $.anystretch("/images/bg3.jpg");
-</script>
+{% for page in site.posts limit:1 %}
+ <article>
+  {% if page.header_image %}
+    <img src="{{page.header_image}}" class="header_image"/>
+  {% endif %}
+  <div class="wrap">
+    <header>
+      <h1>{{page.title}}</h1>
+      <aside>
+        {% if page.place %}{{page.place}} on {% endif %}
+        {{ page.date | date: "%B %e, %Y" }}
+      </aside>
+    </header>
+    {{page.content}}
+  </div>
+</article>
+{% endfor %}
