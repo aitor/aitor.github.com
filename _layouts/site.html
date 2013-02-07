@@ -9,7 +9,13 @@ This is the default site-wide html markup template.
 
   <head>
     <meta charset="UTF-8" />
-    <title>{{page.title}} | {{site.title}}</title>
+    <title>
+      {% if page.title %}
+        {{ page.title }} &ndash; {{ site.title }}
+      {% else %}
+        {{ site.title }} &ndash; Explorer of the digital-physical continuum
+      {% endif %}
+    </title>
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="http://use.typekit.com/usl8few.js"></script>

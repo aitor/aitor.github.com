@@ -40,14 +40,31 @@
   }
 }
 
+@media screen and (min-width:1024px) {
+  .wrap img.extra{
+    max-width: 54em;
+    margin-left: -12em;
+  }
+  iframe#iceland{
+    width: 54em;
+    height: 20em;
+    margin-left: -12em;
+  }
+}
 
-@media screen and (min-width:1300px) {
+
+@media screen and (min-width:1280px) {
   body {
     font-size: 24px;
   }
   .wrap img.extra{
-    max-width: 50em;
-    margin-left: -10em;
+    max-width: 54em;
+    margin-left: -12em;
+  }
+  iframe#iceland{
+    width: 54em;
+    height: 20em;
+    margin-left: -12em;
   }
 }
 @media screen and (min-width:1800px) {

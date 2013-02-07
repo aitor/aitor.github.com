@@ -2,7 +2,13 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{{page.title}} | {{site.title}}</title>
+  <title>
+    {% if page.title %}
+      {{ page.title }} &ndash; {{ site.title }}
+    {% else %}
+      {{ site.title }} &ndash; Explorer of the digital-physical continuum
+    {% endif %}
+  </title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="/all.js"></script>

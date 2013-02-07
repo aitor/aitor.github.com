@@ -1,0 +1,28 @@
+---
+title: Iceland contour lines
+permalink: /iceland-contour/
+layout: layout
+---
+
+  <style type="text/css">
+    html, body {height: 100%; padding: 0; margin: 0;}
+    #map {position:absolute; width:100%; top:0; right:0; bottom:0; left:0;}
+  </style>
+  <link rel="stylesheet" href="http://libs.cartodb.com/cartodb.js/v2/themes/css/cartodb.css" />
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://libs.cartodb.com/cartodb.js/v2/themes/css/cartodb.ie.css" />
+  <![endif]-->
+  <div id="map"></div>
+  <script src="http://libs.cartocdn.com/cartodb.js/v2/cartodb.js"></script>
+  <script>
+    $(document).ready(function(){
+      var opt = {
+        'search':false, 'title':false, 'description':false, 'shareable':false, 'cartodb_logo':true,
+        'sw_lat': 65.22449831043461, 'sw_lon':-23.939208984375,'ne_lat':66.24031184756058, 'ne_lon':-18.665771484375
+       };
+      cartodb.createVis('map', 'http://iceland.cartodb.com/api/v1/viz/iceland/viz', opt, function(vis) {
+        vis.getNativeMap().scrollWheelZoom.disable();
+      });
+    });
+  </script>
+</body>
