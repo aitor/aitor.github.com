@@ -1,0 +1,15 @@
+---
+title: Our House
+permalink: /our-house/
+css_id: writing
+layout: article
+place: Available for rent from 25 Jun - 22 Jul 2015
+date: Reykjavík
+---
+
+{% capture main_text %}
+  {% include our_house/main_text.md %}
+{% endcapture %}
+{{ main_text | markdownify }}
+
+<a href="mailto:hello@aitor.is">Contact us</a>
