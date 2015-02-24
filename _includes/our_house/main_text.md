@@ -10,7 +10,7 @@ It's a warm, cozy, bright and spacious flat. The space is dominated by a large l
 
 From the living room you can access a balcony with views to a nice private little patio. The balcony is perfect for drinking your morning coffee, sip some malt whiskey in the afternoon, watch the northern lights comfortably or just relax for a while if the weather is good. Connected with the living room via a small hall you will find our large bedroom that contains a king size bed and next to it a warm and nice toilet with shower and a big mirror.
 
-We love to cook and, therefore, you'll find a well-equipped kitchen with all kind of appliances. Feel free to use any tool or condiment that you find in it and if you cook something nice... send us a photo!
+**We love [to cook](http://sumendi.is)** and, therefore, you'll find a well-equipped kitchen with all kind of appliances. Feel free to use any tool or condiment that you find in it and if you cook something nice... send us a photo!
 
 As a developer I work very often from home and that means that I need a reliable and fast connection. We'll provide that wifi connection to you so you skype with your friends or need to check your email (but we suggest you to disconnect for a few days :). The laundry room is in the basement and you can use the washing machine & dryer (everything in the same machine) for free. Of course towels and bed linen are included as any other thing (iron, shampoo, shower gel, etc) used in daily life.
 
