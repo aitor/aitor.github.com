@@ -27,12 +27,13 @@ Last week I found [a very eloquent example](http://www.npr.org/sections/altlatin
 
 Most human groups find their way to **encode social realities in cultural artifacts**, making them memorable and shareable. From singing farmers on the Euphrates riverside to Gangsta Rap, music is one of the most powerful artifacts we’ve created to this end. In an increasingly violent Mexico, this practice has taken the form of [Narcocorridos](https://www.wikiwand.com/en/Narcocorrido), folk songs focused on drug smugglers and kingpins. Just a few hours after El Chapo’s escape **dozens of new narcocorridos** were posted on Youtube and other social networks. 
 
-<iframe width=“560” height=“315” src=“https://www.youtube.com/embed/OMzGN8-eI-U” frameborder=“0” allowfullscreen></iframe>
+<iframe width="700" height="315" src="https://www.youtube.com/embed/OMzGN8-eI-U" frameborder="0" allowfullscreen></iframe>
 
 These songs reflect on the lives and stories of the criminals, sometimes praising them, but very often openly criticizing [the corruption and uselessness of a Mexican government](http://www.vice.com/read/talking-to-the-author-of-the-cartel-about-americas-role-in-mexicos-brutal-and-bloody-drug-war-706) that can’t and won’t deal with them. Both approaches are enough reason to **ban the narcocorridos from all mainstream media**. And, therefore, the reason why spread like fire on the digital realm.
 
-<iframe width=“560” height=“315” src=“https://www.youtube.com/embed/_rBMU430Y_Y” frameborder=“0” allowfullscreen></iframe>
+<iframe width="700" height="315" src="https://www.youtube.com/embed/_rBMU430Y_Y" frameborder="0" allowfullscreen></iframe>
 
 Recorded with phones, shared on Snapchat and Instagram, these videos connect with the suffering and daily reality of millions.  You can hear their creators asking the audience to like and follow. Uniquely suited for the network, the narcocorridos **are folk history, formed in real time in front of your eyes, created exclusively in these irrelevant, good-for-nothing apps**. 
 
 As it’s well known these days [software is eating the World](http://www.wsj.com/articles/SB10001424053111903480904576512250915629460). The World, in exchange, seems to be covering every last corner of our servers with politics and culture.
+
