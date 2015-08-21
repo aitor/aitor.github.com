@@ -4,4 +4,27 @@ permalink: /iceland-contour/
 layout: layout
 ---
 
-<iframe width="100%" height="100%" frameborder="0" src="https://iceland.cartodb.com/viz/1e962daa-4808-11e5-af0e-0e853d047bba/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<style type="text/css">
+  html, body {height: 100%; padding: 0; margin: 0;}
+  #map {position:absolute; width:100%; top:0; right:0; bottom:0; left:0;}
+</style>
+
+<link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+
+
+<div id="map"></div>
+
+<script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+<script>
+  window.onload = function() {
+    cartodb.createVis('map', 'https://iceland.cartodb.com/api/v2/viz/1e962daa-4808-11e5-af0e-0e853d047bba/viz.json');
+  }
+</script>
+
+
+
+
+
+
+
+
