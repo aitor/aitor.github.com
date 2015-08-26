@@ -45,7 +45,7 @@
     max-width: 54em;
     margin-left: -12em;
   }
-  iframe#iceland{
+  iframe#iceland, iframe.full_width{
     width: 54em;
     height: 20em;
     margin-left: -12em;
@@ -61,7 +61,7 @@
     max-width: 54em;
     margin-left: -12em;
   }
-  iframe#iceland{
+  iframe#iceland, iframe.full_width{
     width: 54em;
     height: 20em;
     margin-left: -12em;
