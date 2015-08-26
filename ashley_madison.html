@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Ashley Madison Demography – 10,000 feet view</title>
+    <link rel="stylesheet" href="d3.parsets.css">
+    <script type="text/javascript" src="http://use.typekit.com/usl8few.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <script src="d3.parsets.js"></script>
+    <style>
+      body {
+        font-family: "proxima-nova-1","proxima-nova-2", Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        width: 960px;
+        margin: 1em auto;
+        position: relative;
+      }
+      h1, h2, .dimension text {
+        text-align: center;
+        font-weight: 300;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Ashley Madison Demography – 10,000 feet view</h1>
+    <div id="vis"></div>
+
+    <script>
+      var chart = d3.parsets()
+            .dimensions(["Gender", "Sexual Orientation", "Status"])
+            .tension(.5);
+
+      var vis = d3.select("#vis").append("svg")
+          .attr("width", chart.width())
+          .attr("height", chart.height());
+
+      d3.csv("am_demography_10000.csv", function(error, csv) {
+        console.log(csv[0])
+        vis.datum(csv).call(chart
+            .value(csv[0].hasOwnProperty("Number") ? function(d) { return +d.Number; } : 1)
+            .dimensions(function(d) {
+              console.log(d3.keys(d[0]));return d3.keys(d[0]).filter(function(d) { return d !== "Number"; }).sort();
+            }));
+      });
+    </script>
+  </body>
+</html>
