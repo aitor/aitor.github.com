@@ -5,8 +5,6 @@ css_id: writing
 place: Reykjavík
 ---
 
-A few links and books on yesterday conversation I like:
-
 A friend of mine is starting Computer Science in college. She is learning to code in Java and is experiencing the transfixing feeling of commanding machines for first time. I remember perfectly the thrill, and even feel it still sometimes, although now it's indissolubly connected with a cynical perspective on the software industry. But I digress.
 
 Yesterday we were talking about the courses she is taking right now and she mentioned Operating Systems. I mentioned that it's an amazing topic from a technical point of view but instantly sidetracked the conversation to my favourite angle on this area: the folklore and history of Unix and the creation of the Personal Computer during the 60-70s.
