@@ -11,7 +11,7 @@ Yesterday we were talking about the courses she is taking right now and she ment
 
 She mentioned that it would be great to read more about it, so I checked my Kindle library and refreshed my memories to share what I've read, watched and found interesting on this area. I guess it will interesting to share it here for other people that maybe interested. Without more preamble, the list:
 
-- The part 2 of [All Watched Over by Machines of Loving Grace](http://www.wikiwand.com/en/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)#/Part_2._.27The_Use_and_Abuse_of_Vegetational_Concepts.27). You will be introduced to some of the foundational characters Cybernetics, Networks and Systems theory, in a broad perspective. The whole series is worth watching though.
+- The part 2 of [All Watched Over by Machines of Loving Grace](http://www.wikiwand.com/en/All_Watched_Over_by_Machines_of_Loving_Grace_(TV_series)#/Part_2._.27The_Use_and_Abuse_of_Vegetational_Concepts.27). You will be introduced to some of the foundational characters on Cybernetics, Networks and Systems theory, in a broad perspective. The whole series is worth watching though.
 
 
 <iframe frameborder="0" width="560" height="315" src="//www.dailymotion.com/embed/video/x2eagvn" allowfullscreen></iframe>
