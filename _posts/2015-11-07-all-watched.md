@@ -50,7 +50,7 @@ She mentioned that it would be great to read more about it, so I checked my Kind
   <img src="http://images.amazon.com/images/P/B0029PBVCA.01._SCLZZZZZZZ_.jpg"/>
 </a>
 
-- Stephenson is always great, and this is good short intro to what happened next: Microsoft, Apple, Linux et al.
+- Stephenson is always great, and this is a good short intro to what happened next: Microsoft, Apple, Linux et al.
 
 <a href="http://amzn.to/1PuHwl9" target="_blank">
   <img src="http://images.amazon.com/images/P/B0011GA08E.01._SCLZZZZZZZ_.jpg"/>
