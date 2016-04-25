@@ -1,5 +1,3 @@
 markdown: kramdown
-pygments: true
 permalink: /writing-on/:title
-auto: true
 title: Aitor García Rey
