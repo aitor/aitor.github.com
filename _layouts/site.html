@@ -7,51 +7,58 @@ This is the default site-wide html markup template.
 {% assign base = site.baseurl %}
 <html>
 
-  <head>
-    <meta charset="UTF-8" />
-    <title>
-      {% if page.title %}
-        {{ page.title }} &ndash; {{ site.title }}
-      {% else %}
-        {{ site.title }} &ndash; Explorer of the digital-physical continuum
-      {% endif %}
-    </title>
+<head>
+  <meta charset="UTF-8" />
+  <title>
+    {% if page.title %}
+    {{ page.title }} &ndash; {{ site.title }}
+    {% else %}
+    {{ site.title }} &ndash; Explorer of the digital-physical continuum
+    {% endif %}
+  </title>
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="http://use.typekit.com/usl8few.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <script src="{{base}}/all.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://use.typekit.com/usl8few.js"></script>
+  <script type="text/javascript">
+    try {
+      Typekit.load();
+    } catch (e) {}
+  </script>
+  <script src="{{base}}/all.js"></script>
 
-    <link href='http://fonts.googleapis.com/css?family=Vollkorn:400italic,400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{base}}/site.css" type="text/css" />
-    <link rel="shortcut icon" href="{{base}}/img/favicon.ico" type="image/x-icon" />
-  </head>
+  <link href='http://fonts.googleapis.com/css?family=Vollkorn:400italic,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{base}}/site.css" type="text/css" />
+  <link rel="shortcut icon" href="{{base}}/img/favicon.ico" type="image/x-icon" />
+</head>
 
-  <body {% if page.css_id %}id="{{page.css_id}}"{% endif %}>
+<body {% if page.css_id %}id="{{page.css_id}}" {% endif %}>
 
-    <header id="menu">
-      {% include header.html %}
-    </header>
+  <header id="menu">
+    {% include header.html %}
+  </header>
 
-    <section id="content">
-      {{content}}
-    </section>
+  <section id="content">
+    {{content}}
+  </section>
 
-    <footer>
-      {% include footer.html %}
-    </footer>
+  <footer>
+    {% include footer.html %}
+  </footer>
 
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-31370999-1']);
-      _gaq.push(['_setDomainName', 'aitor.is']);
-      _gaq.push(['_trackPageview']);
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-  </body>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-31370999-1']);
+    _gaq.push(['_setDomainName', 'aitor.is']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
 
 </html>

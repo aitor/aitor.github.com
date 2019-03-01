@@ -1,38 +1,46 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <title>
     {% if page.title %}
-      {{ page.title }} &ndash; {{ site.title }}
+    {{ page.title }} &ndash; {{ site.title }}
     {% else %}
-      {{ site.title }} &ndash; Explorer of the digital-physical continuum
+    {{ site.title }} &ndash; Explorer of the digital-physical continuum
     {% endif %}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="/all.js"></script>
-  <script type="text/javascript" src="http://use.typekit.com/usl8few.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <link rel="stylesheet" href="all.css" type="text/css" media="screen"/>
+  <script type="text/javascript" src="https://use.typekit.com/usl8few.js"></script>
+  <script type="text/javascript">
+    try {
+      Typekit.load();
+    } catch (e) {}
+  </script>
+  <link rel="stylesheet" href="all.css" type="text/css" media="screen" />
 </head>
+
 <body>
   <div id="pagewrap">
     {{ content }}
   </div>
   <script type="text/javascript">
-
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-31370999-1']);
     _gaq.push(['_setDomainName', 'aitor.is']);
     _gaq.push(['_trackPageview']);
 
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    (function () {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
     })();
-
   </script>
 </body>
+
 </html>
