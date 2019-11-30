@@ -1,3 +1,11 @@
+---
+layout: article
+title: Bessemer para el Capital
+css_id: writing
+place: Bilbao
+---
+
+
 Traza [esta Bonilista](https://mailchi.mp/bonillaware/altos-hornos) paralelas entre el acero que se amontonó durante siglo y medio a apenas 500 metros de mi casa y los productos digitales que asoman en el móvil. Y hace bien. Gran parte de nuestro sector vive en un permanente excepcionalismo, convencido de que lo digital vive en un limbo existencial donde lo humano no aplica.
 
 Quizás por ello Ética y Política no son populares en el mundo tecnológico. Tampoco interesa la Historia en este mundo STEM tan eficiente y práctico diseñado para nuestros hijos… Y sin embargo, hoy más que nunca debemos ahondar en esos aspectos.
