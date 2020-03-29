@@ -23,3 +23,7 @@ h2 {
 .clear {
   clear: both;
 }
+
+img {
+  max-width: 100%;
+}
