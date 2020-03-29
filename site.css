@@ -10,3 +10,6 @@
 {% include css/adaptative/section_writing.css %}
 {% include css/adaptative/section_archives.css %}
 {% include css/adaptative/queries.css %}
+img {
+  max-width: 100%;
+}
