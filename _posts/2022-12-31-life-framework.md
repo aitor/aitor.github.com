@@ -22,3 +22,5 @@ One of the good and interesting things about the strategy is that it works backw
 Additionally, inside each of these cycles, it proposes looking at six different areas of life -Physical, Business, Family, Community, Personal, and Spouse- to establish a broad set of goals for a balanced life.
 
 I think this a framework that can really click with me -and with many technical-minded and process-oriented people- so I'm going to adopt it now, tweak some parts, and see if it sticks and how far I can take. 
+
+What is your take on life goals? Do you have a system? A framework? Another thing? Let me know by contacting me in twitter or by email. 
