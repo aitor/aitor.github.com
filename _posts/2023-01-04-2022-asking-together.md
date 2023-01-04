@@ -17,7 +17,7 @@ As the minutes pass, they will become more interested in the topic that once loo
 
 Sometimes -like today- the attention is sustained for just 15/20 minutes; sometimes, we keep going deeper or jump to adjacent topics. Sometimes we will arrive at some great conclusion, and sometimes the questions still need to be addressed and remain inconclusive. And that _IS_ OK! I try to summarize our findings and correct anything substantially wrong about their theories, but I mostly let it sit and go back to the topic another day.
 
-In all the years I was schooled (catholic semi-private school), NOT ONCE did I get a professor that would engage with us students through any kind of [Socratic process](http://www.garlikov.com/Soc_Meth.html). They will ask questions to get us to regurgitate their expected answer. Zero interest in the process, zero interest in using the discovery process as a teaching method. 
+In all the years I was schooled (catholic semi-private school), NOT ONCE did I get a professor that would engage with us students through any kind of [Socratic process](http://www.garlikov.com/Soc_Meth.html). They will ask questions to get us to regurgitate their expected answer. Zero interest in the mental process, zero interest in using the discovery process as a teaching method. 
 
 I understand that going through this way of teaching is more challenging than the traditional master class approach: it requires more preparation, forces the teacher to be more dynamic, and sometimes you get stuck! But I'll be damned if this is not a better way to explore learning.
 
