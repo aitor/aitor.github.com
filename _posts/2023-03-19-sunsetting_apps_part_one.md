@@ -18,7 +18,7 @@ You can read about the pivot in detail [here](https://www.linkedin.com/pulse/la-
 The removal of Devengo native apps from their stores is part of this pivot we started last May, and now that we are closing that chapter, it looks like an excellent moment to retrospect on what we learnt during those years. There were many revealing moments but I think the most important learnings fit in these three ideas:
 
 - **Automated, tight release pipelines really help**
-- **Walled gardens are really bad almost everyone**
+- **Walled gardens are really bad for almost everyone**
 - **Bet on programmers not on tech stacks**
 
 Let's talk today about the first one.
