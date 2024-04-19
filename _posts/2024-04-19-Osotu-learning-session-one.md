@@ -50,6 +50,11 @@ Students' skills are not different.
 
 We have innate abilities in some areas but _hardly in all areas_. How good were Einstein, Dirac or Bohr at playing football, making strategies or leading teams? Moreover, how pointless -and unfair- is it to look at students from that perspective? Demanding all the same things to all different people? The idea here is to focus on each person's natural strengths while helping to improve our weaknesses.
 
+
+<hr>
+
+----
+
 Software is fluid. It is gooey. It [devours everything](https://a16z.com/why-software-is-eating-the-world/). It's usually purpose-specific but composed of many different pieces (languages, stacks, libraries, etc.) Developing software is complex and feels like a moving target, but when it works, boy, it's good.
 
 Good software **leverages other tools to acquire new capabilities** faster and more efficiently. Good software maximizes the hardware it's run on (see the connection?). Good software is supported by **abstract layers** that can be rebuilt, improved, and transformed. **Software is transversal** by definition: it supports your countless hours in TikTok, the life support of astronauts in the [ISS](https://www.wikiwand.com/en/International_Space_Station), and the distribution of very words that your inner voice is reading inside your head right now.
