@@ -64,6 +64,8 @@ Students' competences are not different.
 
 If we do our work well, competences allow students to perform significant tasks and become **a toolbox they can use in daily life** to solve problems... and those problems are almost invariably transversal problems, creative problems, teamwork problems, efficiency problems, risk-taking problems.
 
+----
+
 I was thrilled to learn that one of the techniques that should be promoted in Osotu to develop these competences is the [Socratic method](https://www.wikiwand.com/en/Socratic_method) because [I'm a big fan](https://aitor.is/writing-on/2022-asking-together). I couldn't stop thinking about the very famous -at least for us developers- example of [teaching binary to 9yo students](https://web.archive.org/web/20240215133857/https://www.garlikov.com/Soc_Meth.html) and the natural interestingness it shows in students.
 
 We wrapped up the session by watching this amazing video that shows how a great teacher conducts a class by leveraging the Socratic method and the inherent tendency we humans have to help AND critique:
