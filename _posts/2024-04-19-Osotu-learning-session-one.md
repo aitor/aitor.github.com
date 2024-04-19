@@ -27,7 +27,7 @@ Osotu learning approach is mostly adapted from [Mar Romera](https://integratek.e
 
 There are a few key principles of this model that I found relevant:
 
-- **It's a model, not a methodology* (translation for the tech readers: this is [Agile](https://agilemanifesto.org/), not [Scrum](https://www.scrum.org/resources/what-scrum-module)). The reason is the same as we see in technology: you **can't accommodate a diverse team** in your very specific context with an **off-the-self methodology** that details who, how and when is fitted to do what. Eventually, those methodologies will become more constraining than inspiring.
+- **It's a model, not a methodology** (translation for the tech readers: this is [Agile](https://agilemanifesto.org/), not [Scrum](https://www.scrum.org/resources/what-scrum-module)). The reason is the same as we see in technology: you **can't accommodate a diverse team** in your very specific context with an **off-the-self methodology** that details who, how and when is fitted to do what. Eventually, those methodologies will become more constraining than inspiring.
 
 - **It's rooted in [Social constructivism](https://www.wikiwand.com/en/Social_constructivism)**. Before Atlas was schooled I tried to learn more about the different theories of learning and came in contact with the work of [Jean Piaget](https://www.wikiwand.com/en/Jean_Piaget) (most probably by his connection with the popular Montessori system) that basically says that education is not something that is _given_ fully formed to you but on the contrary something **you actively build** yourself in a unique way by connecting the pieces that are presented to you.
 
