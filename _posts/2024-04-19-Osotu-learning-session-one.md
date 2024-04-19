@@ -62,7 +62,7 @@ I was thrilled to learn that one of the techniques that should be promoted in Os
 
 We wrapped up the session by watching this amazing video that shows how a great teacher conducts a class by leveraging the Socratic method and the inherent tendency we humans have to help AND critique:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E_6PskE3zfQ?si=1uOFHWQNmXZf-6jV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/E_6PskE3zfQ?si=1uOFHWQNmXZf-6jV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The next session will be solely focused on the last 'C' Corazón (the Heart) and will, I think, deal with one of the more clearly neglected areas in education: passion, emotions, and desires.
 
