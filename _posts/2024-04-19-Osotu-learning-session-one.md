@@ -42,6 +42,10 @@ Then the presentation turned into a section on skills and competences, and for a
 - **Skills == Hardware**
 - **Competences == Software**
 
+Both capabilities complement, support and make the other possible and useful.
+
+----
+
 Hardware is primarily **rigid, constrained, and purpose-agnostic**. Any hardware, as powerful as it may be, will have limitations, constraints, and characteristics that will make it _especially suitable_ for some uses. Knowing and understanding those limitations and **focusing on the characteristics at which it excels** is vital to making good use of the hardware.
 
 Sometimes, if we are creative enough, we may find that hardware that was designed with an initial usecase is perfect for _another one_, as we see now with [GPU](https://www.wikiwand.com/en/Graphics_processing_unit). Initially intended to compute the simple graphics on your know monitor, they are now incredibly expensive and [bought by the tens of thousands to build AI models](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/).
@@ -49,9 +53,6 @@ Sometimes, if we are creative enough, we may find that hardware that was designe
 Students' skills are not different.
 
 We have innate abilities in some areas but _hardly in all areas_. How good were Einstein, Dirac or Bohr at playing football, making strategies or leading teams? Moreover, how pointless -and unfair- is it to look at students from that perspective? Demanding all the same things to all different people? The idea here is to focus on each person's natural strengths while helping to improve our weaknesses.
-
-
-<hr>
 
 ----
 
