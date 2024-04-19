@@ -33,30 +33,37 @@ There are a few key principles of this model that I found relevant:
 
   What I didn't know was that Piaget's work was extended to something called **social constructivism** by psychologist [Lev Vygotsky](https://www.wikiwand.com/en/Lev_Vygotsky) that -one can guess significantly influenced by the soviet era- put the focus on how that building process is heavily influenced by your interactions with other students, their culture, and society at large. It sounds logic to me.
 
-- **Transversal learning**. The -seemingly obvious- idea is that the learning process hardly happens in a silo. Not being able to trace the influence of economics in history, philosophy in politics, or maths in music is a disservice to our kids and a byproduct of an industrial approach to education.
+- **Transversal learning**. The -seemingly obvious- idea is that the learning process hardly happens in a silo. Not being able to trace the influence of economics in history, philosophy in politics, or maths in music is a _disservice_ to our kids and a byproduct of an industrial approach to education.
 
 - **Diversity as an opportunity.** This idea connects very well with the idea of learning through interactions with others, acknowledging our limitations in most aspects and honouring them with empathy and humility. We all are certainly unique BUT we are definetely not special.
 
 Then the presentation turned into a section on skills and competences, and for a developer like me, two of those core tenants provided immediate parallelisms:
 
-- Skills == Hardware
-- Competences == Software.
+- **Skills == Hardware**
+- **Competences == Software**
 
-Hardware is primarily **rigid, constrained, and purpose-agnostic**. Any hardware, as powerful as it may be, will have limitations, constraints, and characteristics that will make it especially suitable for some uses. Knowing and understanding those limitations and focusing on the characteristics at which they excel is vital to making good use of the hardware. Sometimes, if we are creative enough, we may find that hardware that was designed with an initial usecase is perfect for another one, as we see now with [GPU](https://www.wikiwand.com/en/Graphics_processing_unit). Initially intended to compute the simple graphics on your know monitor, they are now incredibly expensive and [bought by the tens of thousands to build AI models](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/).
+Hardware is primarily **rigid, constrained, and purpose-agnostic**. Any hardware, as powerful as it may be, will have limitations, constraints, and characteristics that will make it _especially suitable_ for some uses. Knowing and understanding those limitations and **focusing on the characteristics at which it excels** is vital to making good use of the hardware.
+
+Sometimes, if we are creative enough, we may find that hardware that was designed with an initial usecase is perfect for _another one_, as we see now with [GPU](https://www.wikiwand.com/en/Graphics_processing_unit). Initially intended to compute the simple graphics on your know monitor, they are now incredibly expensive and [bought by the tens of thousands to build AI models](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/).
 
 Students' skills are not different.
 
 We have innate abilities in some areas but _hardly in all areas_. How good were Einstein, Dirac or Bohr at playing football, making strategies or leading teams? Moreover, how pointless -and unfair- is it to look at students from that perspective? Demanding all the same things to all different people? The idea here is to focus on each person's natural strengths while helping to improve our weaknesses.
 
-Software is fluid. It is gooey. It [devours everything](https://a16z.com/why-software-is-eating-the-world/). It's usually purpose-specific but composed of many different pieces (languages, stacks, libraries, etc.) Developing software is complex and feels like a moving target, but when it works, boy, it's good. Good software leverages other tools to acquire new capabilities faster and more efficiently. Good software maximizes the hardware it's run on (see the connection?). Good software is supported by abstract layers that can be rebuilt, improved, and transformed. Software is transversal by definition: it supports your countless hours in TikTok, the life support of astronauts in the [ISS](https://www.wikiwand.com/en/International_Space_Station), and the very words that your inner voice is reading inside your head now.
+Software is fluid. It is gooey. It [devours everything](https://a16z.com/why-software-is-eating-the-world/). It's usually purpose-specific but composed of many different pieces (languages, stacks, libraries, etc.) Developing software is complex and feels like a moving target, but when it works, boy, it's good.
+
+Good software **leverages other tools to acquire new capabilities** faster and more efficiently. Good software maximizes the hardware it's run on (see the connection?). Good software is supported by **abstract layers** that can be rebuilt, improved, and transformed. **Software is transversal** by definition: it supports your countless hours in TikTok, the life support of astronauts in the [ISS](https://www.wikiwand.com/en/International_Space_Station), and the distribution of very words that your inner voice is reading inside your head right now.
 
 Students' competences are not different.
 
-If we do our work well, competences allow students to perform significant tasks and become a toolbox they can use in daily life to solve problems... and those problems are almost invariably transversal problems, creative problems. teamwork problems, efficiency problems, risk-taking problems. I was thrilled to learn that one of the techniques that should be promoted in Osotu to develop these competences is the [socratic method](https://www.wikiwand.com/en/Socratic_method) because [I'm a big fan](https://aitor.is/writing-on/2022-asking-together). I couldn't stop thinking about the very famous -at least for us developers- example of [teaching binary to 9yo students](https://web.archive.org/web/20240215133857/https://www.garlikov.com/Soc_Meth.html) and the natural interestingness it shows in students.
+If we do our work well, competences allow students to perform significant tasks and become **a toolbox they can use in daily life** to solve problems... and those problems are almost invariably transversal problems, creative problems, teamwork problems, efficiency problems, risk-taking problems.
 
-We wrap up the session by watching this amazing video that shows how a great teacher conducts a class by leveraging the Socratic method and the inherent tendency we humans have to help:
+I was thrilled to learn that one of the techniques that should be promoted in Osotu to develop these competences is the [Socratic method](https://www.wikiwand.com/en/Socratic_method) because [I'm a big fan](https://aitor.is/writing-on/2022-asking-together). I couldn't stop thinking about the very famous -at least for us developers- example of [teaching binary to 9yo students](https://web.archive.org/web/20240215133857/https://www.garlikov.com/Soc_Meth.html) and the natural interestingness it shows in students.
+
+We wrapped up the session by watching this amazing video that shows how a great teacher conducts a class by leveraging the Socratic method and the inherent tendency we humans have to help AND critique:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E_6PskE3zfQ?si=1uOFHWQNmXZf-6jV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+The next session will be solely focused on the last 'C' Corazón (the Heart) and will, I think, deal with one of the more clearly neglected areas in education: passion, emotions, and desires.
 
-The next session will be about the last 'C' (the Heart) and will, I think, deal with one of the more clearly neglected areas in education: passion, emotions, and desires. Let's see!
+Let's see!
