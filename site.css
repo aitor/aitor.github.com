@@ -13,3 +13,15 @@
 img {
   max-width: 100%;
 }
+
+hr:before {
+    content: "⁂";
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    margin: 0 0 0 -3px;
+    font-size: 15px;
+    line-height: 0;
+    text-shadow: 0 0 3px #0d0d0d;
+}
