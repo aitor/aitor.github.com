@@ -5,15 +5,15 @@ css_id: writing
 place: Bilbao
 ---
 
-I've recently had the opportunity to attend a training course for teachers. But some context first.
+As I have [mentioned before](https://aitor.is/writing-on/atlas), Atlas didn't attend formal education for the first three years of his life. He started at school on what the Spanish system called "Infantil" (akin to Pre-K/K in the US), and at that moment, we chose what we thought would be a good school for him. Long story short, after three years, we were firmly convinced that a) **what they sold us when we first signed up Atlas** in that school **was not true** and b) the real system and approach they use was **100% traditional** and not very fitted for Atlas.
 
-As I have [mentioned before](https://aitor.is/writing-on/atlas), Atlas didn't attend formal education for the first three years of his life. He started at school on what the Spanish system called "Infantil" (akin to Pre-K/K in the US), and at that moment, we chose what we thought would be a good school for him. Long story short, after three years, we were firmly convinced that a) what they sold us when we first signed up at Atlas in that school was not true and b) the real system and approach they use was 100% traditional and not very fitted for Atlas.
+We then decided to change schools -had a few very dramatic hours after telling Atlas we were doing so 😅- and pick a new model that would be a better fit for him. After much research, we found [Osotu](https://osotu.org/), a private school near Barakaldo, following a very different learning model.
 
-We then decided to change schools -and had a few very dramatic hours after telling Atlas we were doing so 😅- and pick a new model that would be a better fit for him. After much research, we found [Osotu](https://osotu.org/), a private school near Barakaldo, following a very different learning model. We instantly liked the approach and decided to make a double bet on Osotu: trust Atlas's education them and do it in a moment when their financial sustainability was in question. He is now close to finishing his first year in Osotu, and we couldn't be happier with the bet result.
+We instantly liked their educational approach and decided to make a double bet on Osotu: trust Atlas's education them and do it in a moment when their financial sustainability was in question. He is now close to finishing his first year in Osotu, and we couldn't be happier with the bet result.
 
-# Osotu, another way of learning is possible
+## Osotu, another way of learning is possible
 
-Recently, I became aware of an opportunity to attend a training course for teachers that Osotu is running internally to reach new potential candidates. Not being a professional teacher, I first hesitated about whether it would make sense for me, but at the same time, I felt in my guts that there would be many connections and parallelisms with the responsibilities a person who leads technical teams has. Boy, was I right.
+Recently, I became aware of an opportunity to attend a **training course for teachers** that Osotu is running internally to reach new potential candidates. Not being a professional teacher, I first hesitated about whether it would make sense for me, but at the same time, I felt in my guts that there would be many connections and parallelisms with the responsibilities a person who leads technical teams has. Boy, was I right.
 
 During the session, I constantly found points of view and principles that are valuable for any team member, especially if the raw material of your work is knowledge, as happens in software development and startups. Here are some notes on the first session of the first module.
 
