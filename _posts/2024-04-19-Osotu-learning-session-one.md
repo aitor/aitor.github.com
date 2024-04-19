@@ -15,33 +15,34 @@ We instantly liked their educational approach and decided to make a double bet o
 
 Recently, I became aware of an opportunity to attend a **training course for teachers** that Osotu is running internally to reach new potential candidates. Not being a professional teacher, I first hesitated about whether it would make sense for me, but at the same time, I felt in my guts that there would be many connections and parallelisms with the responsibilities a person who leads technical teams has. Boy, was I right.
 
-During the session, I constantly found points of view and principles that are valuable for any team member, especially if the raw material of your work is knowledge, as happens in software development and startups. Here are some notes on the first session of the first module.
-
+During the session, I constantly found points of view and principles that are valuable for any team member, especially if the **raw material you work with is knowledge**, as it happens in software development and startups. Here are some notes on the first session of the first module of this course.
 
 ## Three Cs: Capacidades, Competencias, Corazón (Skill, Competences, Heart)
 
-Osotu learning approach is mostly adapted from [Mar Romera](https://integratek.es/mar-romera/) "three Cs" model that succintly could be described as a way to learn that is focused on 3 different aspects of the students:
+Osotu learning approach is mostly adapted from [Mar Romera](https://integratek.es/mar-romera/)'s "three Cs" model that succintly could be described as a way to learn that is focused on the students and 3 particular aspects of them:
 
 - The innate **skills** they have.
 - The **competences** they develop through the learning process.
-- The catalyzer passion, desire and a good disposition provide to the previous two (the **Heart**)
+- The catalyzer, passion, desire and a good disposition, provide to the previous two (the **Heart**)
 
 There are a few key principles of this model that I found relevant:
 
-- It's a model, not a methodology. Translation for the tech readers: this is [Agile](https://agilemanifesto.org/), not [Scrum](https://www.scrum.org/resources/what-scrum-module). The reason is the same as we see in technology: you can accommodate a diverse team in your very specific context with an off-the-self methodology that details who, how and when is fitted to do what. Eventually, those methodologies will become more constraining than inspiring.
+- **It's a model, not a methodology* (translation for the tech readers: this is [Agile](https://agilemanifesto.org/), not [Scrum](https://www.scrum.org/resources/what-scrum-module)). The reason is the same as we see in technology: you **can't accommodate a diverse team** in your very specific context with an **off-the-self methodology** that details who, how and when is fitted to do what. Eventually, those methodologies will become more constraining than inspiring.
 
-- It's rooted in **social constructivism**. Before Atlas was schooled I tried to learn more about the different theories of learning and came in contact with the work [Jean Piaget](https://www.wikiwand.com/en/Jean_Piaget) (most probably by his connection with the popular Montessori system) that basically says that education is not something that is _given_ fully formed to you but on the contrary something **you actively build** yourself in a unique by connecting the pieces that are presented to you. What I didn't know was that Piaget's work was extended to something called **social constructivism** by psychologist [Lev Vygotsky](https://www.wikiwand.com/en/Lev_Vygotsky) that -probably significantly influenced by the soviet era- put the focus on how that building process is heavily influenced by your interactions with other students, their culture, and society at large. It looks logic to me.
+- **It's rooted in [Social constructivism](https://www.wikiwand.com/en/Social_constructivism)**. Before Atlas was schooled I tried to learn more about the different theories of learning and came in contact with the work of [Jean Piaget](https://www.wikiwand.com/en/Jean_Piaget) (most probably by his connection with the popular Montessori system) that basically says that education is not something that is _given_ fully formed to you but on the contrary something **you actively build** yourself in a unique way by connecting the pieces that are presented to you.
 
-- Transversal learning. The -seemingly obvious- idea is that the learning process hardly happens in a silo. Not being able to trace the influence of economics in history, philosophy in politics, or maths in music is a disservice to our kids and a byproduct of an industrial approach to education.
+  What I didn't know was that Piaget's work was extended to something called **social constructivism** by psychologist [Lev Vygotsky](https://www.wikiwand.com/en/Lev_Vygotsky) that -one can guess significantly influenced by the soviet era- put the focus on how that building process is heavily influenced by your interactions with other students, their culture, and society at large. It sounds logic to me.
 
-- Diversity as an opportunity. This idea connects very well with the idea of learning through interactions with others, acknowledging our limitations in most aspects and honouring them with empathy and humility.
+- **Transversal learning**. The -seemingly obvious- idea is that the learning process hardly happens in a silo. Not being able to trace the influence of economics in history, philosophy in politics, or maths in music is a disservice to our kids and a byproduct of an industrial approach to education.
 
-Then it came to a section on skills and competences, and for a developer like me, two of those core tenants provided immediate parallelisms:
+- **Diversity as an opportunity.** This idea connects very well with the idea of learning through interactions with others, acknowledging our limitations in most aspects and honouring them with empathy and humility. We all are certainly unique BUT we are definetely not special.
+
+Then the presentation turned into a section on skills and competences, and for a developer like me, two of those core tenants provided immediate parallelisms:
 
 - Skills == Hardware
 - Competences == Software.
 
-Hardware is primarily rigid, fixed and purpose-agnostic. Any hardware, as powerful as it may be, will have limitations, constraints, and characteristics that will make it especially suitable for some uses. Knowing and understanding those limitations and focusing on the characteristics at which they excel is vital to making good use of the hardware. Sometimes, if we are creative enough, we may find that hardware that was designed with an initial usecase is perfect for another one, as we see now with [GPU](https://www.wikiwand.com/en/Graphics_processing_unit). Initially intended to compute the simple graphics on your know monitor, they are now incredibly expensive and [bought by the tens of thousands to build AI models](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/).
+Hardware is primarily **rigid, constrained, and purpose-agnostic**. Any hardware, as powerful as it may be, will have limitations, constraints, and characteristics that will make it especially suitable for some uses. Knowing and understanding those limitations and focusing on the characteristics at which they excel is vital to making good use of the hardware. Sometimes, if we are creative enough, we may find that hardware that was designed with an initial usecase is perfect for another one, as we see now with [GPU](https://www.wikiwand.com/en/Graphics_processing_unit). Initially intended to compute the simple graphics on your know monitor, they are now incredibly expensive and [bought by the tens of thousands to build AI models](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/).
 
 Students' skills are not different.
 
