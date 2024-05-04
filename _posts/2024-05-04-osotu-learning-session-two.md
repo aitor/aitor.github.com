@@ -53,7 +53,7 @@ There are, of course, obvious advantages to putting emotions front and centre in
 
 - If the emotional scaffold is right, **the learning becomes more significant**. Often, we are confronted with the fact that many of the things we learned in school provided no ground for the development of new interests and capabilities (e.g. I may remember there IS something called the Golgi apparatus in the cells, but I'd be at a loss about how it's interconnected with other parts or its general interaction with cell's functions), it is purely rote learning.
 
-- Emotional skills and competencies CAN be developed and are a **KEY component of many (all?) jobs**. Ask a consultant which is the main friction point when trying to redesign a process that has been going on for years in a company or, even worse, try to redirect the company's culture.
+- Emotional skills and competencies CAN be developed and are a **KEY component of many (all?) jobs**. Ask a consultant which is the main friction point when trying to redesign a process that has been going on for years in a company or, even worse, try to redirect the company's culture. All roads lead to Emotions.
 
 But there is also a fundamental, often taken-for-granted goal: to be happy. Simply as that. **No amount of learning can fill the void in an unfulfilled, unhappy life**. One could easily argue that, without learning, there is simply no possibility for a happy life because intellectual activity and the search for knowledge ARE themselves the Aristotelian definition of a good life. 
 
