@@ -63,8 +63,8 @@ Although this part of the emotions analysis took a big portion of the session's 
 
 I kept nodding at every sentence, especially enjoying the reference to the Stoics, who have been [an interest of mine for a very long time](https://twitter.com/_aitor/status/764068915248975873). There are just so many things we can't control and a big -but surprisingly hard- part of having a good life is to learn (see? :) to identify them. I've learned a lot about stoic philosophy, its practices and ideas, but still to this day, nothing that I've read crystallizes its spirit as clearly as the [Serenity prayer](https://www.wikiwand.com/en/Serenity_Prayer), a tool used and popularized by [Alcoholics Anonymous](https://www.wikiwand.com/en/Alcoholics_Anonymous) on how to confront life:
 
-> God, give me grace to accept with **Serenity** the things that cannot be changed,
-> **Courage** to change the things which should be changed,
-> and the **Wisdom** to distinguish the one from the other.
+> God, give me grace to accept with **Serenity** the things that cannot be changed,  
+> **Courage** to change the things which should be changed,  
+> and the **Wisdom** to distinguish the one from the other.  
 
 I'm looking forward to the next session focusing on the neuroscience basics all teachers need to understand to serve their students better. So exciting! 
