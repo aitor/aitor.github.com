@@ -13,7 +13,7 @@ _This post is part of a series. Feel free to check the other posts:_
 
 As I write this post, I've already finished [Osotu's training course for teachers](https://fundazioa-osotu-org.translate.goog/talleres/?_x_tr_sl=es&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) (I still have to upload the notes on a few modules), so in retrospect, I can say confidently that this was one of the best sessions of the course for me.
 
-The session started with some basic concepts on the **structure of neurons** and their connection (dendrites, axons, synaptic endings, etc.). Still, it quickly moved into what has been one of the main discoveries: the [executive functions](https://www.wikiwand.com/en/Executive_functions).
+The session started with some basic concepts on the **structure of neurons** and their connection (dendrites, axons, synaptic endings, etc.). Still, it quickly moved into what has been one of the main discoveries about teaching/learning for me in this course: the [executive functions](https://www.wikiwand.com/en/Executive_functions).
 
 The main idea is that for most of the tasks you need to be able to execute to be considered a functional person in society, the use of these functions is critical:
 
