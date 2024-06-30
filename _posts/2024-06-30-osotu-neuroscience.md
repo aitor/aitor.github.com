@@ -64,4 +64,6 @@ Not knowing what the Golgi apparatus is can be easily solved with a quick search
 
 After we talked at length about how important those executive functions are, Marimar, the teacher who imparts the course, explained to us that all this scientific knowledge should help us **design a better education plan**, including the spaces where we study, the session timing and planification, the routines... everything.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/efCq_vHUMqs?si=oTzqzdHoRStAzPg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 It was a great, great session and since I attended it, I've been reading more and more about executive functions. Additionally, it has helped me understand better the many situations where we met adult people who are intellectually _very capable_ but still struggle with the day-to-day, basic planning and seem to be always stuck in the same thinking. All this things are not innate, they are supposed to be developed and honed, and still our normative educaction systems FAILS completely at doing it.
