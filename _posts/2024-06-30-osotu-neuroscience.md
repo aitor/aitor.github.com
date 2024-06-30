@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Osotu - Neuroscience
+title: Osotu - On Neuroscience
 css_id: writing
 place: Bilbao
 ---
